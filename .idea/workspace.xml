@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16a519cd-7d6f-483b-9d2a-656ec4ce7485" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="views-register.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kj/js/config/views-register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personalCenter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/personalCenter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mine.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kj/css/mine.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="907" column="45" lean-forward="false" selection-start-line="907" selection-start-column="45" selection-end-line="907" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mineIndex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/mineIndex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mine.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kj/js/mine.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="1186" column="15" lean-forward="false" selection-start-line="1186" selection-start-column="15" selection-end-line="1186" selection-end-column="15" />
+              <folding>
+                <element signature="e#1913#2777#0" expanded="false" />
+                <element signature="e#2948#3834#0" expanded="false" />
+                <element signature="e#4005#4487#0" expanded="false" />
+                <element signature="e#4655#5134#0" expanded="false" />
+                <element signature="e#5310#6490#0" expanded="false" />
+                <element signature="e#6673#9002#0" expanded="false" />
+                <element signature="e#9181#9527#0" expanded="false" />
+                <element signature="e#9702#10059#0" expanded="false" />
+                <element signature="e#10231#10712#0" expanded="false" />
+                <element signature="e#10886#11274#0" expanded="false" />
+                <element signature="e#11456#11868#0" expanded="false" />
+                <element signature="e#12063#14392#0" expanded="false" />
+                <element signature="e#14577#14921#0" expanded="false" />
+                <element signature="e#15100#15756#0" expanded="false" />
+                <element signature="e#15926#16411#0" expanded="false" />
+                <element signature="e#16582#17125#0" expanded="false" />
+                <element signature="e#17287#17687#0" expanded="false" />
+                <element signature="e#17865#20194#0" expanded="false" />
+                <element signature="e#20374#20858#0" expanded="false" />
+                <element signature="e#21032#21401#0" expanded="false" />
+                <element signature="e#21576#21946#0" expanded="false" />
+                <element signature="e#22120#22491#0" expanded="false" />
+                <element signature="e#22654#23062#0" expanded="false" />
+                <element signature="e#23230#23643#0" expanded="false" />
+                <element signature="e#23816#24288#0" expanded="false" />
+                <element signature="e#24469#26796#0" expanded="false" />
+                <element signature="e#26978#27868#0" expanded="false" />
+                <element signature="e#28032#28910#0" expanded="false" />
+                <element signature="e#29071#29486#0" expanded="false" />
+                <element signature="e#29654#29994#0" expanded="false" />
+                <element signature="e#30156#30562#0" expanded="false" />
+                <element signature="e#30727#31064#0" expanded="false" />
+                <element signature="e#35979#36390#0" expanded="false" />
+                <element signature="e#37170#37557#0" expanded="false" />
+                <element signature="e#37736#39512#0" expanded="false" />
+                <element signature="e#45659#45998#0" expanded="false" />
+                <element signature="e#46162#46581#0" expanded="false" />
+                <element signature="e#46758#47102#0" expanded="false" />
+                <element signature="e#49248#49666#0" expanded="false" />
+                <element signature="e#50626#51815#0" expanded="false" />
+                <element signature="e#53082#53417#0" expanded="false" />
+                <element signature="e#58314#60560#0" expanded="false" />
+                <element signature="e#61857#62202#0" expanded="false" />
+                <element signature="e#62383#62731#0" expanded="false" />
+                <element signature="e#62904#63244#0" expanded="false" />
+                <element signature="e#63421#63994#0" expanded="false" />
+                <element signature="e#64161#65512#0" expanded="false" />
+                <element signature="e#64459#65249#0" expanded="false" />
+                <element signature="e#65275#65508#0" expanded="false" />
+                <element signature="e#65680#66258#0" expanded="false" />
+                <element signature="e#66916#67851#0" expanded="false" />
+                <element signature="e#68320#73750#0" expanded="false" />
+                <element signature="e#68409#68925#0" expanded="false" />
+                <element signature="e#68992#69986#0" expanded="false" />
+                <element signature="e#70047#70838#0" expanded="false" />
+                <element signature="e#74630#74946#0" expanded="false" />
+                <element signature="e#75116#75431#0" expanded="false" />
+                <element signature="e#75593#75977#0" expanded="false" />
+                <element signature="e#76137#76516#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>long</find>
+      <find>commodityD</find>
+      <find>oneOnOneDetails</find>
+      <find>cs_index</find>
+      <find>raiseList</find>
+      <find>扫码付</find>
+      <find>selectorChannel</find>
+      <find>voucherCenter</find>
+      <find>selector</find>
+      <find>payment</find>
+      <find>物流</find>
+      <find>查看物流</find>
+      <find>myOrder</find>
+      <find>pendingPaymentDetails</find>
+      <find>goInEvaluated</find>
+      <find>shoppingCart</find>
+      <find>兑换</find>
+      <find>exchange</find>
+      <find>myImazamox</find>
+      <find>tony</find>
+      <find>个人</find>
+      <find>personalData</find>
+      <find>cropbox</find>
+      <find>myWallet</find>
+      <find>selectBankCard</find>
+      <find>addBankCard</find>
+      <find>follow</find>
+      <find>indexMine</find>
+      <find>银行卡选择</find>
+      <find>personalCenter</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kj/css/tel.css" />
+        <option value="$PROJECT_DIR$/kj/css/pageHome.css" />
+        <option value="$PROJECT_DIR$/kj/css/seach.css" />
+        <option value="$PROJECT_DIR$/kj/js/seach.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/seach/rakeThrough.html" />
+        <option value="$PROJECT_DIR$/kj/js/tool/ui-layout.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/tel/telephone.html" />
+        <option value="$PROJECT_DIR$/kj/js/tel.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/raise/raiseList.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/payment/sweepCodeHome.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/recharge/voucherCenter.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/recharge/chargeFlow.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/recharge/videoRechargeDetails.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/recharge/activationCode.html" />
+        <option value="$PROJECT_DIR$/kj/js/recharge.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/recharge/entertainmentRecharge.html" />
+        <option value="$PROJECT_DIR$/kj/css/recharge.css" />
+        <option value="$PROJECT_DIR$/kj/css/login.css" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/classification/commodityDetails.html" />
+        <option value="$PROJECT_DIR$/kj/js/classification.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/partake.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/sweepTheFace.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/storeDetails.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/raise/oneOnOneDetails.html" />
+        <option value="$PROJECT_DIR$/kj/css/dealer/raise.css" />
+        <option value="$PROJECT_DIR$/kj/js/raise.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/payment/collectionCode.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/payment/selectorChannel.html" />
+        <option value="$PROJECT_DIR$/kj/css/dealer/payment.css" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/payment/gathering.html" />
+        <option value="$PROJECT_DIR$/kj/js/payment.js" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/dealer/payment/payment.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/myOrder.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/toBeShippedDetails.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/shoppingCart.html" />
+        <option value="$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/exchangeRecord.css" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/myImazamox.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/exchangeRecord.html" />
+        <option value="$PROJECT_DIR$/kj/index.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/personalData.html" />
+        <option value="$PROJECT_DIR$/kj/js/config/views-register.js" />
+        <option value="$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/detailed.css" />
+        <option value="$PROJECT_DIR$/kj/css/mineTwo.css" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/detailed.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/myWallet.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/selectBankCard.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/addBankCard.html" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/mineIndex.html" />
+        <option value="$PROJECT_DIR$/kj/js/mine.js" />
+        <option value="$PROJECT_DIR$/kj/css/mine.css" />
+        <option value="$PROJECT_DIR$/kj/views/tmpl/mine/personalCenter.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYL_obj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/下拉加载" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\XYL_obj\kj\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\XYL_obj\kj\views\tmpl\mine" />
+      <recent name="G:\XYL_obj\kj\css" />
+      <recent name="G:\XYL_obj\kj\js\tool" />
+      <recent name="G:\XYL_obj\kj\views\tmpl\dealer\payment" />
+      <recent name="G:\XYL_obj\kj\images\store" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a519cd-7d6f-483b-9d2a-656ec4ce7485" name="Default" comment="" />
+      <created>1496225473836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496225473836</updated>
+      <workItem from="1496225475458" duration="50327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/recharge/entertainmentRecharge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/recharge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="398" column="0" lean-forward="true" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="219" column="15" lean-forward="false" selection-start-line="219" selection-start-column="15" selection-end-line="219" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/raise/myShare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/myShareCommodity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/tool/ui-layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/sweepTheFace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/partake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/pageHome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/classification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="99" column="12" lean-forward="true" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding>
+            <element signature="e#1935#2296#0" expanded="false" />
+            <element signature="e#2352#2621#0" expanded="false" />
+            <element signature="e#2661#2955#0" expanded="false" />
+            <element signature="e#4007#6403#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/classification/commodityDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="148" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/storeDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="152" lean-forward="false" selection-start-line="36" selection-start-column="152" selection-end-line="36" selection-end-column="152" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#5;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/raise/oneOnOneDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="64" lean-forward="false" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/dealer/raise.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="946" column="34" lean-forward="false" selection-start-line="946" selection-start-column="34" selection-end-line="946" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/recharge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#858#1016#0" expanded="false" />
+            <element signature="e#1071#1212#0" expanded="false" />
+            <element signature="e#1278#1438#0" expanded="false" />
+            <element signature="e#1498#1664#0" expanded="false" />
+            <element signature="e#1720#1796#0" expanded="false" />
+            <element signature="e#1835#1995#0" expanded="false" />
+            <element signature="e#2035#2202#0" expanded="false" />
+            <element signature="e#3269#3427#0" expanded="false" />
+            <element signature="e#3482#3623#0" expanded="false" />
+            <element signature="e#3689#3849#0" expanded="false" />
+            <element signature="e#3909#4075#0" expanded="false" />
+            <element signature="e#4131#4207#0" expanded="false" />
+            <element signature="e#4246#4406#0" expanded="false" />
+            <element signature="e#4446#4613#0" expanded="false" />
+            <element signature="e#8219#8377#0" expanded="false" />
+            <element signature="e#8432#8573#0" expanded="false" />
+            <element signature="e#8639#8799#0" expanded="false" />
+            <element signature="e#8859#9025#0" expanded="false" />
+            <element signature="e#9081#9157#0" expanded="false" />
+            <element signature="e#9196#9356#0" expanded="false" />
+            <element signature="e#9396#9563#0" expanded="false" />
+            <element signature="e#10456#10614#0" expanded="false" />
+            <element signature="e#10669#10810#0" expanded="false" />
+            <element signature="e#10876#11036#0" expanded="false" />
+            <element signature="e#11096#11262#0" expanded="false" />
+            <element signature="e#11318#11394#0" expanded="false" />
+            <element signature="e#11433#11593#0" expanded="false" />
+            <element signature="e#11633#11800#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/recharge/voucherCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="54" column="57" lean-forward="true" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/payment/collectionCode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/payment/selectorChannel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/dealer/payment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="376" column="23" lean-forward="false" selection-start-line="376" selection-start-column="23" selection-end-line="376" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/payment/gathering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/raise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#1756#4958#0" expanded="false" />
+            <element signature="e#5115#5620#0" expanded="false" />
+            <element signature="e#6390#7038#0" expanded="false" />
+            <element signature="e#7198#7628#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="326" column="0" lean-forward="true" selection-start-line="326" selection-start-column="0" selection-end-line="326" selection-end-column="0" />
+          <folding>
+            <element signature="e#2250#2408#0" expanded="false" />
+            <element signature="e#2463#2604#0" expanded="false" />
+            <element signature="e#2670#2830#0" expanded="false" />
+            <element signature="e#2890#3202#0" expanded="false" />
+            <element signature="e#3241#3401#0" expanded="false" />
+            <element signature="e#3661#4057#0" expanded="false" />
+            <element signature="e#4229#4542#0" expanded="false" />
+            <element signature="e#4714#5207#0" expanded="false" />
+            <element signature="e#5382#5700#0" expanded="false" />
+            <element signature="e#7017#7431#0" expanded="false" />
+            <element signature="e#7599#7911#0" expanded="false" />
+            <element signature="e#8068#8374#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/dealer/payment/payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/pendingPaymentDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/toBeShippedDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/shoppingCart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="130" column="52" lean-forward="false" selection-start-line="130" selection-start-column="52" selection-end-line="130" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#6;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/myOrder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="218" column="77" lean-forward="false" selection-start-line="218" selection-start-column="64" selection-end-line="218" selection-end-column="77" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#6;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/myImazamox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="136" lean-forward="false" selection-start-line="13" selection-start-column="130" selection-end-line="13" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/exchangeRecord.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/exchangeRecord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/sy/tong_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#87#1463#0" expanded="false" />
+            <element signature="n#!!block;n#edit#0" expanded="false" />
+            <element signature="e#1890#2011#0" expanded="false" />
+            <element signature="e#2086#2299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/personalData.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/tool/cropbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/tool/LAreaData1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/LArea.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/LArea.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/tool/LArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3158">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="263" column="56" lean-forward="true" selection-start-line="263" selection-start-column="56" selection-end-line="263" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4991#5204#0" expanded="false" />
+            <element signature="e#5241#5457#0" expanded="false" />
+            <element signature="e#5489#5551#0" expanded="false" />
+            <element signature="e#5586#5653#0" expanded="false" />
+            <element signature="e#5698#6189#0" expanded="false" />
+            <element signature="e#6214#6256#0" expanded="false" />
+            <element signature="e#6282#6918#0" expanded="false" />
+            <element signature="e#6955#7040#0" expanded="false" />
+            <element signature="e#7072#7156#0" expanded="false" />
+            <element signature="e#7182#7267#0" expanded="false" />
+            <element signature="e#7291#7375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/renjie_beach/Files/detailed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="190" column="50" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="190" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/mineTwo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="1384" column="50" lean-forward="false" selection-start-line="1384" selection-start-column="50" selection-end-line="1384" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/personalData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/detailed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <marker date="1496376907277" expanded="false" signature="35:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/tong_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="76" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/selectBankCard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/addBankCard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/myWallet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/mineIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1186" column="15" lean-forward="false" selection-start-line="1186" selection-start-column="15" selection-end-line="1186" selection-end-column="15" />
+          <folding>
+            <element signature="e#1913#2777#0" expanded="false" />
+            <element signature="e#2948#3834#0" expanded="false" />
+            <element signature="e#4005#4487#0" expanded="false" />
+            <element signature="e#4655#5134#0" expanded="false" />
+            <element signature="e#5310#6490#0" expanded="false" />
+            <element signature="e#6673#9002#0" expanded="false" />
+            <element signature="e#9181#9527#0" expanded="false" />
+            <element signature="e#9702#10059#0" expanded="false" />
+            <element signature="e#10231#10712#0" expanded="false" />
+            <element signature="e#10886#11274#0" expanded="false" />
+            <element signature="e#11456#11868#0" expanded="false" />
+            <element signature="e#12063#14392#0" expanded="false" />
+            <element signature="e#14577#14921#0" expanded="false" />
+            <element signature="e#15100#15756#0" expanded="false" />
+            <element signature="e#15926#16411#0" expanded="false" />
+            <element signature="e#16582#17125#0" expanded="false" />
+            <element signature="e#17287#17687#0" expanded="false" />
+            <element signature="e#17865#20194#0" expanded="false" />
+            <element signature="e#20374#20858#0" expanded="false" />
+            <element signature="e#21032#21401#0" expanded="false" />
+            <element signature="e#21576#21946#0" expanded="false" />
+            <element signature="e#22120#22491#0" expanded="false" />
+            <element signature="e#22654#23062#0" expanded="false" />
+            <element signature="e#23230#23643#0" expanded="false" />
+            <element signature="e#23816#24288#0" expanded="false" />
+            <element signature="e#24469#26796#0" expanded="false" />
+            <element signature="e#26978#27868#0" expanded="false" />
+            <element signature="e#28032#28910#0" expanded="false" />
+            <element signature="e#29071#29486#0" expanded="false" />
+            <element signature="e#29654#29994#0" expanded="false" />
+            <element signature="e#30156#30562#0" expanded="false" />
+            <element signature="e#30727#31064#0" expanded="false" />
+            <element signature="e#35979#36390#0" expanded="false" />
+            <element signature="e#37170#37557#0" expanded="false" />
+            <element signature="e#37736#39512#0" expanded="false" />
+            <element signature="e#45659#45998#0" expanded="false" />
+            <element signature="e#46162#46581#0" expanded="false" />
+            <element signature="e#46758#47102#0" expanded="false" />
+            <element signature="e#49248#49666#0" expanded="false" />
+            <element signature="e#50626#51815#0" expanded="false" />
+            <element signature="e#53082#53417#0" expanded="false" />
+            <element signature="e#58314#60560#0" expanded="false" />
+            <element signature="e#61857#62202#0" expanded="false" />
+            <element signature="e#62383#62731#0" expanded="false" />
+            <element signature="e#62904#63244#0" expanded="false" />
+            <element signature="e#63421#63994#0" expanded="false" />
+            <element signature="e#64161#65512#0" expanded="false" />
+            <element signature="e#64459#65249#0" expanded="false" />
+            <element signature="e#65275#65508#0" expanded="false" />
+            <element signature="e#65680#66258#0" expanded="false" />
+            <element signature="e#66916#67851#0" expanded="false" />
+            <element signature="e#68320#73750#0" expanded="false" />
+            <element signature="e#68409#68925#0" expanded="false" />
+            <element signature="e#68992#69986#0" expanded="false" />
+            <element signature="e#70047#70838#0" expanded="false" />
+            <element signature="e#74630#74946#0" expanded="false" />
+            <element signature="e#75116#75431#0" expanded="false" />
+            <element signature="e#75593#75977#0" expanded="false" />
+            <element signature="e#76137#76516#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/js/config/views-register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="50" column="44" lean-forward="false" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="907" column="45" lean-forward="false" selection-start-line="907" selection-start-column="45" selection-end-line="907" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kj/views/tmpl/mine/personalCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
